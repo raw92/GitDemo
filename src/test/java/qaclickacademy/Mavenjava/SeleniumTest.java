@@ -23,6 +23,12 @@ public class SeleniumTest {
 		System.out.println("elementsUi2");
 	}
 	
+	@Test
+	public void elesmenstsUi() {
+		System.out.println("elementsUi1");
+		System.out.println("elementsUi2");
+	}
+	
 	
 	
 }
